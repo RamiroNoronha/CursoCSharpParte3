@@ -1,0 +1,16 @@
+D:\Programas_C#\ByteBank\01-ByteBank\bin\Debug\net5.0\01-ByteBank.exe
+D:\Programas_C#\ByteBank\01-ByteBank\bin\Debug\net5.0\01-ByteBank.deps.json
+D:\Programas_C#\ByteBank\01-ByteBank\bin\Debug\net5.0\01-ByteBank.runtimeconfig.json
+D:\Programas_C#\ByteBank\01-ByteBank\bin\Debug\net5.0\01-ByteBank.runtimeconfig.dev.json
+D:\Programas_C#\ByteBank\01-ByteBank\bin\Debug\net5.0\01-ByteBank.dll
+D:\Programas_C#\ByteBank\01-ByteBank\bin\Debug\net5.0\ref\01-ByteBank.dll
+D:\Programas_C#\ByteBank\01-ByteBank\bin\Debug\net5.0\01-ByteBank.pdb
+D:\Programas_C#\ByteBank\01-ByteBank\obj\Debug\net5.0\01-ByteBank.csproj.AssemblyReference.cache
+D:\Programas_C#\ByteBank\01-ByteBank\obj\Debug\net5.0\01-ByteBank.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programas_C#\ByteBank\01-ByteBank\obj\Debug\net5.0\01-ByteBank.AssemblyInfoInputs.cache
+D:\Programas_C#\ByteBank\01-ByteBank\obj\Debug\net5.0\01-ByteBank.AssemblyInfo.cs
+D:\Programas_C#\ByteBank\01-ByteBank\obj\Debug\net5.0\01-ByteBank.csproj.CoreCompileInputs.cache
+D:\Programas_C#\ByteBank\01-ByteBank\obj\Debug\net5.0\01-ByteBank.dll
+D:\Programas_C#\ByteBank\01-ByteBank\obj\Debug\net5.0\ref\01-ByteBank.dll
+D:\Programas_C#\ByteBank\01-ByteBank\obj\Debug\net5.0\01-ByteBank.pdb
+D:\Programas_C#\ByteBank\01-ByteBank\obj\Debug\net5.0\01-ByteBank.genruntimeconfig.cache
