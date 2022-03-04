@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Programas_C#\\ByteBank\\01-ByteBank\\01-ByteBank.csproj",
+      "projectUniqueName": "D:\\RepositorioGitHub\\CursoCSharpParte3\\01-ByteBank\\01-ByteBank.csproj",
       "projectName": "01-ByteBank",
-      "projectPath": "D:\\Programas_C#\\ByteBank\\01-ByteBank\\01-ByteBank.csproj",
+      "projectPath": "D:\\RepositorioGitHub\\CursoCSharpParte3\\01-ByteBank\\01-ByteBank.csproj",
       "packagesPath": "C:\\Users\\Ramir\\.nuget\\packages\\",
-      "outputPath": "D:\\Programas_C#\\ByteBank\\01-ByteBank\\obj\\",
+      "outputPath": "D:\\RepositorioGitHub\\CursoCSharpParte3\\01-ByteBank\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
