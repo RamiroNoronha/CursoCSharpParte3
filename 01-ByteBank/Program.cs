@@ -8,7 +8,17 @@ namespace _01_ByteBank
     {
         static void Main(string[] args)
         {
-            UsarSistema();
+            //UsarSistema();
+
+            try
+            {
+                ContaCorrente conta = new ContaCorrente(0, 23423);
+            }
+            catch(ArgumentException e)
+            {
+                Console.WriteLine("Argumento: " + e.ParamName);
+                Console.WriteLine(e.Message);
+            }
 
         }
 
