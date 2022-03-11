@@ -20,7 +20,7 @@ namespace _01_ByteBank
             {
                 return _saldo;
             }
-            set
+            private set
             {
                 if(value < 0)
                 {
@@ -47,5 +47,35 @@ namespace _01_ByteBank
             TotalDeContasCriandas++;
             TaxaDeOperacao /= TotalDeContasCriandas;
         }
+
+        public void Sacar(double valor)
+        {
+            if(valor > _saldo)
+            {
+                throw new SaldoInsuficienteException(valor, _saldo);
+            }
+            _saldo -= valor;
+        }
+
+        public void Depositar(double valor)
+        {
+            if(valor < 0)
+            {
+
+            }
+            _saldo += valor;
+        }
+
+        public void Transferir(double valor, ContaCorrente conta)
+        {
+            if(valor < 0)
+            {
+                throw new SaldoInsuficienteException("Valor de tranferência inválido");
+            }
+
+            Sacar(valor);
+            Depositar(valor);
+        }
+
     }
 }
